@@ -1,5 +1,5 @@
 # 数据类型会自己推导，不需要像C++那样声明
-# python中有6种数据类型 Number数字 String字符串 List列表 Tuple元组 Set集合 Directionary字典
+# python中有6种数据类型 Number数字 String字符串 List列表 Tuple元组 Set集合 Dictionary字典
 
 # ------------------不可变数据------------------
 # 1.Number Python3 支持 int、float、bool、complex（复数）
